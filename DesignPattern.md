@@ -1,6 +1,7 @@
     Design Patterns:
 
-    Design Pattern: Design pattern is a general repeatable solution to a commonly occurring problem in software design.
+    Design Pattern: Design pattern is a general repeatable solution to a commonly occurring problem in
+    software design.
     
     Types of design pattern:
         1. Creational Pattern
