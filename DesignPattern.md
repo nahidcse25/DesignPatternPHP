@@ -19,7 +19,9 @@
         2. Structural Patter:
           a. Adapter
           b. Decorator
-          c. Facade:A Facade is meant to decouple a client and a sub-system by embedding many (but sometimes just one) interface, and of course to reduce complexity.[Used for reducing coupling]
+          c. Facade:A Facade is meant to decouple a client and a sub-system by embedding many 
+              (but sometimes just one) interface, and of course to reduce complexity.
+             [Used for reducing coupling]
           
         3.Behavioral Pattern:
           a. Strategy Pattern
@@ -28,7 +30,8 @@
       	$storage = new Storage();
       	$user->new User($storage);//$user depend on $storage//
       	
-    Dependency Injection: Dependency Injection is where components are given through their constructor,method or directly into field as a dependency.
+    Dependency Injection: Dependency Injection is where components are given through their constructor,method
+        or directly into field as a dependency.
       	//storage components gives as constructor to user.
       	
     Dispatch: Dispatch is a process of select a method at run time.
