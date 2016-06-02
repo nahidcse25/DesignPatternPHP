@@ -19,10 +19,10 @@ Explain and code of design pattern.
       
         2. Structural Patter:
           a. Adapter
-          b. Decorator
+          b. Decorator: Decorator pattern is a method for changing the functionality of a class without changing original          class.
           c. Facade:A Facade is meant to decouple a client and a sub-system by embedding many 
               (but sometimes just one) interface, and of course to reduce complexity.
-             [Used for reducing coupling]
+              [Used for reducing coupling]
           
         3.Behavioral Pattern:
           a. Strategy Pattern
