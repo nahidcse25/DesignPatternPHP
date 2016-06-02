@@ -1,6 +1,5 @@
-# DesignPatternPHP
-Explain and code of design pattern.
-
+    Design Patterns:
+    
     Design Pattern: Design pattern is a general repeatable solution to a commonly occurring problem in
     software design.
     
@@ -11,18 +10,16 @@ Explain and code of design pattern.
         4. Concurrency Pattern
       
         1.Creational Pattern:
-          a. Abstract Factory
-          b. Factory
+          a. Abstract Factory: Abstract Factory pattern is a creational design pattern which creates factory mothod.
+          b. Factory: Factory method pattern is a creational design pattern which creates another classes.
           c. Builder
           d. Lazy Initialization
           e. Singleton
       
         2. Structural Patter:
-          a. Adapter
-          b. Decorator: Decorator pattern is a method for changing the functionality of a class without changing original          class.
-          c. Facade:A Facade is meant to decouple a client and a sub-system by embedding many 
-              (but sometimes just one) interface, and of course to reduce complexity.
-              [Used for reducing coupling]
+          a. Adapter : The Adapter pattern is a design pattern which is commonly used to manage changes in development.
+          b. Decorator : 
+          c. Facade:Facade is a structural design pattern which gives us a simplified interface of a complex sub system.
           
         3.Behavioral Pattern:
           a. Strategy Pattern
@@ -36,3 +33,4 @@ Explain and code of design pattern.
       	//storage components gives as constructor to user.
       	
     Dispatch: Dispatch is a process of select a method at run time.
+	Trait: Trait is simply a group of methods that you want include within another class. A Trait, like an abstract class, cannot be instantiated on it’s own.
